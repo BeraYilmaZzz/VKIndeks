@@ -1,2 +1,2 @@
 # VKIndeks
-Vücut kitle indeks değerimizi bulmaya yarayan program.
+Vücut kitle indeks değerinizi hesaplayan program.
